@@ -1,1 +1,0 @@
-window.__HTTP_VERSION__ = 'http2';
