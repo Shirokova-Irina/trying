@@ -1,1 +1,0 @@
-window.__SET_3RD_PARTY_CALLBACK && window.__SET_3RD_PARTY_CALLBACK(true);
